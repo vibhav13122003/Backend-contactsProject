@@ -1,0 +1,10 @@
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore build directories
+build/
+dist/
+node_modules/
